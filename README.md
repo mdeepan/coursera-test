@@ -1,2 +1,2 @@
 # coursera-test
-Coursera web development fundamentas
+Coursera web development fundamentals
